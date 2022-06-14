@@ -1,7 +1,7 @@
 :root {
     --black-color: #505050;
     --red-color: #ef0303;
-    --light red-color: #ffd6d2;
+    --light-red-color: #ffd6d2;
   }
   
   body {
@@ -173,7 +173,7 @@
   }
   
   .right-column p {
-    color: var(--ligth-grey-color);
+    color: var(--red-color);
   }
   
   .education p {
